@@ -1,0 +1,6 @@
+{
+  "name": "T & L Auto Service",
+  "description": "Professional automotive repair and maintenance in Moncton, New Brunswick. Reliable auto care built around you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
